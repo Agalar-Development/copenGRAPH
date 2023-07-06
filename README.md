@@ -13,3 +13,6 @@
  Most Used Versions: ![newplot (7)](https://github.com/AntiAternosBot/copenGRAPH/assets/60201017/1feb40c9-e70e-45c9-87ab-703ed0697f8f)
  
 <p align="center"><a> Current data is collected before 1.20 and does not contains the informations which is lower than 500 usage in all data. </a></p>
+
+Credits: 
+* C418 for their album cover.
